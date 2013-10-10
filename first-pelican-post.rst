@@ -5,6 +5,8 @@ The Next Chapter
 :category: helloworld
 :slug: first-pelican-post
 :author: Tim Heckman
+:copyright: 2013
+:license: CC BY-SA
 
 So back in 2010 when I started at Linode_ I decided I would undertake a
 new endeavor in getting my shiny new system configured. I'd set up a

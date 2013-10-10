@@ -1,7 +1,9 @@
 I really need to start writing about things.
 ############################################
 :date: 2013-08-24 04:20
-:author: theckman
+:author: Tim Heckman
+:copyright: 2013
+:license: CC BY-SA
 :category: Personal
 :slug: i-really-need-to-start-writing-about-things
 

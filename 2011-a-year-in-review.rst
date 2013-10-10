@@ -1,7 +1,9 @@
 2011 - A Year In Review
 #######################
 :date: 2011-12-31 15:02
-:author: theckman
+:author: Tim Heckman
+:copyright: 2011
+:license: CC BY-SA
 :category: Personal
 :tags: 2011, end of year review, new years
 :slug: 2011-a-year-in-review

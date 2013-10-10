@@ -1,7 +1,9 @@
 The Canterbury Distribution
 ###########################
 :date: 2011-04-01 04:09
-:author: theckman
+:author: Tim Heckman
+:copyright: 2011
+:license: CC BY-SA
 :category: distributions
 :slug: the-canterbury-distro
 

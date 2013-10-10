@@ -1,7 +1,9 @@
 IPv6 Gateway Maintenance Perl Script
 ####################################
 :date: 2011-12-26 12:23
-:author: theckman
+:author: Tim Heckman
+:copyright: 2011
+:license: CC BY-SA
 :category: development, IPv6, linux, networking, perl
 :tags: debian, development, hurricane electric, ipv6, networking, perl
 :slug: ipv6-gateway-perl-script

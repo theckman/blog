@@ -5,4 +5,6 @@ Deciding To Move On
 :category: personal
 :slug: moving-on
 :author: Tim Heckman
+:copyright: 2013
+:license: CC BY-SA
 
