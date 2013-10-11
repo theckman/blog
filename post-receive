@@ -5,5 +5,5 @@ source bin/activate
 cd build
 make html
 [ ! -d "~/blog/htdocs" ] || mkdir ../htdocs
-rsync -a content/* ~/blog/htdocs/
+rsync -a output/* ~/blog/htdocs/
 
