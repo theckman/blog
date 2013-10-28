@@ -2,7 +2,12 @@
 
 cd ~/blog
 source bin/activate
-cd build
+if [ -d "~/blog/build/output" ]; then
+    cd ~/blog/build/output
+    find . -type f -regextype posix-extended -regex ".*\.gz$" -exec rm {} \;
+fi
+cd ~/blog/build
 make html
+find . -type f -regextype posix-extended -regex ".*(\.html|\.css|\.xml)$" | parallel "gzip -c {} >{}.gz"
 [ ! -d "~/blog/htdocs" ] || mkdir ~/blog/htdocs
 rsync -a --delete output/* ~/blog/htdocs/
