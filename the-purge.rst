@@ -5,6 +5,7 @@ The Purge
 :copyright: 2013
 :license: CC BY-SA
 :category: personal
+:tags: san francisco, moving
 :slug: the-purge
 
 I recently accepted a position with PagerDuty in San Francisco. While it
