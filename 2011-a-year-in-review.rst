@@ -4,7 +4,7 @@
 :author: Tim Heckman
 :copyright: 2011
 :license: CC BY-SA
-:category: Personal
+:category: personal
 :tags: 2011, end of year review, new years
 :slug: 2011-a-year-in-review
 

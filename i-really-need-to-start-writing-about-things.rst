@@ -4,7 +4,7 @@ I really need to start writing about things.
 :author: Tim Heckman
 :copyright: 2013
 :license: CC BY-SA
-:category: Personal
+:category: personal
 :slug: i-really-need-to-start-writing-about-things
 
 I've neglected this whole thing, primarily because I didn't have time. I
