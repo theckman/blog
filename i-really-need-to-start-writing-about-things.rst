@@ -5,6 +5,7 @@ I really need to start writing about things.
 :copyright: 2013
 :license: CC BY-SA
 :category: personal
+:tags: personal
 :slug: i-really-need-to-start-writing-about-things
 
 I've neglected this whole thing, primarily because I didn't have time. I

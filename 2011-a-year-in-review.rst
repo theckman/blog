@@ -5,6 +5,7 @@
 :copyright: 2011
 :license: CC BY-SA
 :category: personal
+:tags: personal
 :tags: 2011, end of year review, new years
 :slug: 2011-a-year-in-review
 
