@@ -5,7 +5,6 @@ Hurricane Electric Tunnel Broker IPv6 Gateway
 :copyright: 2011
 :license: CC BY-SA
 :category: IPv6
-:tags: IPv6, linux, networking
 :tags: 6in4, debian, he, henet, hurricane electric, ipv4, ipv6, linux, networking, radvd, ubuntu
 :slug: he-tunnelbroker-ipv6-gateway
 
