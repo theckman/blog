@@ -4,7 +4,7 @@ The Purge
 :author: Tim Heckman
 :copyright: 2013
 :license: CC BY-SA
-:category: personal, san francisco, moving
+:category: personal
 :slug: the-purge
 
 I recently accepted a position with PagerDuty in San Francisco. While it
