@@ -4,7 +4,8 @@ IPv6 Gateway Maintenance BASH Script
 :author: Tim Heckman
 :copyright: 2011
 :license: CC BY-SA
-:category: development, IPv6, linux, networking
+:category: development
+:tags: development, IPv6, linux, networking
 :slug: ipv6-gateway-bash-script
 
 |image0|

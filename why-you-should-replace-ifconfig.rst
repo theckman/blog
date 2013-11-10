@@ -4,7 +4,8 @@ Why you should replace ifconfig (net-tools) with iproute2
 :author: Tim Heckman
 :copyright: 2011
 :license: CC BY-SA
-:category: linux, networking
+:category: linux
+:tags: linux, networking
 :slug: why-you-should-replace-ifconfig
 
 |Sample output of iproute2|
