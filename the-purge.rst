@@ -9,7 +9,7 @@ The Purge
 
 I recently accepted a position with PagerDuty in San Francisco. While it
 took a bit of convincing, I managed to convince my girlfriend (now
-fiancé) to make the trek with me to the other coast. One of the biggest
+fiancée) to make the trek with me to the other coast. One of the biggest
 decisions we needed to make was what to keep and what to sell.
 
 While this sounds trivial on first pass, it was definitely a lot more
@@ -19,7 +19,7 @@ Deciding what not to keep
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Before I said yes to the job I did some research on moving cross-
 country. Going in to the research I had some ideas that moving my
-belongings would be expensive, the real cost was definitely higher than
+belongings would be expensive; the real cost was definitely higher than
 I had anticipated. For a POD which would completely accommodate us,
 $4500. The U-HAUL alternative, which would ship less, $2300.
 
@@ -41,7 +41,7 @@ which level each item falls under:
 
 Lastly, what is something that might not work for us in Cali? Without
 having an apartment picked out, it was hard to determine what will
-fit in to our eventual place. Even if it would fit, is it work losing
+fit in to our eventual place. Even if it would fit, is it worth losing
 that much space in the shipping container for it?
 
 Meredith had a *beautiful* West Elm sectional with a chaise. Brand new,
@@ -65,7 +65,7 @@ definitely has some character.
 
 The second piece of information was which items were worth it to keep.
 I'll admit this was tricky as "worth" is a bit of a loaded term, and
-doesn't a specific definition. We needed to strike some sort of balance
+doesn't have a specific definition. We needed to strike some sort of balance
 to make the shipping worth-while for the items we already wanted to keep,
 but also not ship too much so that we had too much. There were some items
 that we could replace when moving to California, but it would not be
